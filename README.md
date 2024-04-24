@@ -1,3 +1,3 @@
 # MEZUNİYET PROJESİ KONUSU VE PROJE
 
-##(Eğitim alırkenki) SON KODUM.
+## (Eğitim alırkenki) SON KODUM.

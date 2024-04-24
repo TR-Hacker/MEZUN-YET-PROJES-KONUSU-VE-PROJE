@@ -1,2 +1,2 @@
-# MEZUN-YET-PROJES-KONUSU-VE-PROJE
-(Eğitim alırkenki) SON KODUM.
+# MEZUNİYET PROJESİ KONUSU VE PROJE
+##(Eğitim alırkenki) SON KODUM.
